@@ -4,16 +4,16 @@ Le chiffre de Beaufort chiffre le texte en utilisant une clé répétée. Pour c
 # Comment Utiliser
 L'outil est conçu pour être intuitif :
 
-Au lancement du script, une fenêtre de dialogue vous invite à choisir entre le chiffrement (C) et le déchiffrement (D).
+-Au lancement du script, une fenêtre de dialogue vous invite à choisir entre le chiffrement (C) et le déchiffrement (D).
 
 
-Entrez ensuite le texte que vous souhaitez chiffrer ou déchiffrer.
+-Entrez ensuite le texte que vous souhaitez chiffrer ou déchiffrer.
 
 
-Fournissez la clé de chiffrement. Cette clé doit être une chaîne de caractères sans espaces ni chiffres.
+-Fournissez la clé de chiffrement. Cette clé doit être une chaîne de caractères sans espaces ni chiffres.
 
 
-Le résultat s'affiche dans une nouvelle fenêtre de dialogue, vous montrant le texte chiffré ou déchiffré.
+-Le résultat s'affiche dans une nouvelle fenêtre de dialogue, vous montrant le texte chiffré ou déchiffré.
 
 
 # Avantages
